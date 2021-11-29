@@ -14,3 +14,5 @@ scikit-learn==0.23.2
 lazypredict==0.2.7
 pandas-profiling==2.10.0
 streamlit-pandas-profiling==0.1.1
+base64>=0.0.0
+io>=0.0.0
